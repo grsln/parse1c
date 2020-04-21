@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1518f54-e111-499a-98e8-a2f1bdd0bf10" name="Default Changelist" comment="1st commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="parse1c" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="755870c8-70ba-4c8e-95c4-56e2b1d33088" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/grsln/hhparse.git" />
+        <option value="https://github.com/grsln/parse1c.git" />
+      </set>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YI1ODfQm8eIRO1zCg2Q0ijwWsO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.parse1c">
+    <configuration name="hhparse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hhparse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hhparse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse1c" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hhparse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse1c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_parse1c.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="hhparse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_parse1c.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.parse1c" />
+        <item itemvalue="Python tests.Unittests in test_parse1c.py" />
+        <item itemvalue="Python.hhparse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1518f54-e111-499a-98e8-a2f1bdd0bf10" name="Default Changelist" comment="" />
+      <created>1582615259612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582615259612</updated>
+    </task>
+    <task id="LOCAL-00001" summary="alembic without create">
+      <created>1582740371099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582740371099</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ssl mailru">
+      <created>1584381254372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584381254372</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ssl mailru">
+      <created>1584464046135</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584464046135</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ready with all">
+      <created>1584464216044</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584464216044</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alembic without create" />
+    <MESSAGE value="ssl mailru" />
+    <MESSAGE value="ready with all" />
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="27" width="642" height="741" key="#1cparse" timestamp="1587409563737">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="357" y="27" width="642" height="741" key="#1cparse/0.27.1366.741@0.27.1366.741" timestamp="1587409563737" />
+    <state x="278" y="58" width="800" height="677" key="#Notifications" timestamp="1587450697078">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="58" width="800" height="677" key="#Notifications/0.27.1366.741@0.27.1366.741" timestamp="1587450697078" />
+    <state x="273" y="59" width="800" height="677" key="#TODO" timestamp="1587461338524">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="273" y="59" width="800" height="677" key="#TODO/0.27.1366.741@0.27.1366.741" timestamp="1587461338524" />
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584463527832">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1584463527832" />
+    <state x="515" y="288" width="325" height="217" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1584459689502">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="515" y="288" width="325" height="217" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.27.1366.741@0.27.1366.741" timestamp="1584459689502" />
+    <state x="357" y="27" width="642" height="741" key="#parse1c" timestamp="1587409588862">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="357" y="27" width="642" height="741" key="#parse1c/0.27.1366.741@0.27.1366.741" timestamp="1587409588862" />
+    <state x="287" y="27" width="782" height="741" key="CommitChangelistDialog2" timestamp="1587461342596">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="287" y="27" width="782" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1587461342596" />
+    <state x="454" y="140" width="447" height="513" key="FileChooserDialogImpl" timestamp="1587461473626">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="454" y="140" width="447" height="513" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1587461473626" />
+    <state x="536" y="291" key="Github.ShareDialog" timestamp="1587460954774">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="536" y="291" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1587460954774" />
+    <state x="462" y="54" width="431" height="685" key="Github.UntrackedFilesDialog" timestamp="1582617292608">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="462" y="54" width="431" height="685" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1582617292608" />
+    <state width="1343" height="175" key="GridCell.Tab.0.bottom" timestamp="1587460475359">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1587460475359" />
+    <state width="1343" height="175" key="GridCell.Tab.0.center" timestamp="1587460475358">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1587460475358" />
+    <state width="1343" height="175" key="GridCell.Tab.0.left" timestamp="1587460475357">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1587460475357" />
+    <state width="1343" height="175" key="GridCell.Tab.0.right" timestamp="1587460475358">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1587460475358" />
+    <state width="1343" height="219" key="GridCell.Tab.1.bottom" timestamp="1584263132553">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584263132553" />
+    <state width="1343" height="219" key="GridCell.Tab.1.center" timestamp="1584263132552">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1584263132552" />
+    <state width="1343" height="219" key="GridCell.Tab.1.left" timestamp="1584263132551">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1584263132551" />
+    <state width="1343" height="219" key="GridCell.Tab.1.right" timestamp="1584263132552">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1584263132552" />
+    <state x="127" y="85" width="1092" height="622" key="MergeDialog" timestamp="1587398465822">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="127" y="85" width="1092" height="622" key="MergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1587398465822" />
+    <state x="388" y="114" width="580" height="564" key="MultipleFileMergeDialog" timestamp="1587398465854">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="388" y="114" width="580" height="564" key="MultipleFileMergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1587398465854" />
+    <state x="172" y="31" key="SettingsEditor" timestamp="1587461388733">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1587461388733" />
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584464307571">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1584464307571" />
+    <state width="683" height="371" key="XDebugger.FullValuePopup" timestamp="1584216712539">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="683" height="371" key="XDebugger.FullValuePopup/0.27.1366.741@0.27.1366.741" timestamp="1584216712539" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1587460343115">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1587460343115" />
+    <state x="451" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587398372720">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="451" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1587398372720" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584380024060">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1584380024060" />
+  </component>
+</project>
